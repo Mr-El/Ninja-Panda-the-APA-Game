@@ -5,7 +5,9 @@
   <instructions>Add game instructions here.</instructions>
   <resolution>3</resolution>
   <longDescription>A simple game.</longDescription>
-  <prototypes />
+  <prototypes>
+    <actor id="id699438" />
+  </prototypes>
   <plugins />
   <scenes>
     <scene id="id910730" />
